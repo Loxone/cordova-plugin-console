@@ -6,6 +6,7 @@
     "id": "cordova-plugin-console",
     "platforms": [
       "ios",
+      "osx",
       "ubuntu",
       "wp7",
       "wp8",
@@ -22,6 +23,7 @@
     "console",
     "ecosystem:cordova",
     "cordova-ios",
+    "cordova-osx",
     "cordova-ubuntu",
     "cordova-wp7",
     "cordova-wp8",
